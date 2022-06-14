@@ -18,8 +18,8 @@ url    : "FDCA" # the base hostname & protocol for your site, e.g. http://exampl
 baseurl: "FDCA" # the subpath of your site, e.g. /blog
 
 title      : Foreningen for Danske Cyber Alumner
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+email      : kontakt@fdca.dk #this is also the email contact forms will go to
+description: "Bidrager til Danmarks og Rigsfællesskabets modstandsdygtighed overfor cyber-trusler"
 author     : Your Name
 logo:     #optional, defaults to site title
    path: assets\img\fdca\ext_smalltext_transparent_negative_pink.png
