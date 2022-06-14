@@ -11,7 +11,7 @@ caption:
 ---
 Kasper Hjortborg Kristiansen har altid været meget interesseret i IT, og har samtidig haft en drengedrøm om at være i militæret. Derfor meldte hans sig i 2020 til cyberværnepligten, hvor han aftjente sine 10 måneder i forsvaret sammen med resten af Hold 2.
 
-Men hvordan var kombinationen af IT-sikkerhed og militær tjeneste så for Kasper?
+## Men hvordan var kombinationen af IT-sikkerhed og militær tjeneste så for Kasper?
 
 ”Udover det gode kammeratskab som man får i CVPL, så er det et yderst intenst uddannelsesforløb, der virkelig udfordrer en. Jeg oplevede mange aftner, hvor vi blev i undervisningslokalet for at arbejde videre med projekter og opgaver fra undervisningen. Det er en bobbel af kammeratskab, personlig- og faglig udvikling, som man ikke kan få andre steder.”
 
