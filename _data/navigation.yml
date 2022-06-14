@@ -11,20 +11,20 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Om FDCA"
       section: services
-    - title: "Portfolio"
+    - title: "Vores medlemmer"
       section: portfolio
-    - title: "About"
+    - title: "Cyberværnepligten"
       section: about
-    - title: "Timeline"
+    - title: "Events"
       section: timeline
-    - title: "Team"
+    - title: "Blog"
       section: team
-    - title: "Contact"
+    - title: "Kontakt"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Blog"
+      url: https://kasperhk.github.io/fdca-test2/posts/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
