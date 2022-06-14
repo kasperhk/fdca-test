@@ -19,7 +19,7 @@ en: &DEFAULT_EN
       section: about
     - title: "Events"
       section: timeline
-    - title: "Blog"
+    - title: "Bestyrelsen"
       section: team
     - title: "Kontakt"
       section: contact
