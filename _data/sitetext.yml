@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: 
-    text: 
+    text: Velkommen
     button: Kontakt
     buttonlink: "#contact"
 
