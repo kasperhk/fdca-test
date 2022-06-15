@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Velkommen til
-    text: FDCA
+    title: 
+    text: 
     button: Kontakt
     buttonlink: "#contact"
 
