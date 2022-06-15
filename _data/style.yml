@@ -4,5 +4,5 @@ highlight: "#ff00e7"
 #black: "#000"
 
 #Image Customization
-header-image: "../img/header-bg.jpg"
+header-image: "../img/header-bg.gif"
 contact-image: "../img/map-image.png"
